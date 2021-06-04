@@ -1,0 +1,106 @@
+* Alexy_Ponderación_control_de_constitucionalidad_y_representacion :derecho:
+:PROPERTIES:
+:NOTER_DOCUMENT: ../../Descargas/Telegram Desktop/Alexy_Ponderación_control_de_constitucionalidad_y_representacion.pdf
+:NOTER_PAGE: 1
+:END:
+** Definiendo la teoría del constitucionalismo discursivo.
+Se trata de una "teoría" que se infiere desde *cinco conceptos* que le son fundamentales.
+1. Los *derechos fundamentales*
+2. La *ponderación*.
+3. El *discurso*.
+4. El *control de constitucionalidad*.
+5. La *representación*.
+** La ponderación.
+*La ponderación y el balanceo son parte de los temas fundamentales sobre la interpretación de derechos fundamentales*. En el derecho constitucional alemán la ponderación *es parte del PRINCIPIO DE PROPORCIONALIDAD*.
+*** El principio de proporcionalidad.
+Este principio está conformada por *tres subprincipios*:
+1. El *principio de idoniedad*.
+2. El *principio de necesidad*.
+3. El *el principio de proporcionalidad en el sentido estricto*.
+   Porque la proporcionalidad está conformada por la proporcionalidad, aprende algo proporcionalidad.
+Estos tres subprincipios, que son parte del principio de proporcionalidad, *expresan la idea de OPTIMIZACIÓN*.
+
+- Registremos la forma en la que se han ido desarrollando los conceptos y categorías que presenta Alexy en las dos páginas que hemos revisado del texto:
+  + La *ponderación no es un principio que se explique y se baste a sí mismo*.
+  + La ponderación, menciona el señor Alexy, forma parte del *principio de proporcionalidad*, un principio más amplio que el de la mera ponderación y que, de hecho, determina su contenido: *EL PRINCIPIO DE PROPORCIONALIDAD*.
+  + *A SU VEZ EL PRINCIPIO DE PROPORCIONALIDAD ESTÁ CONFORMADO POR TRES SUBPRINCIPIOS*
+    1. idoniedad
+    2. necesidad
+    3. proporcionalidad en sentido estricto.
+  + Luego entones tenemos que la ponderación es un principio que no se basta a sí mismo para explicarse como principio, es más, necesita del principio de proporcionalidad para determinar su forma y contenido. Y respecto de la proporcionalidad no olvidemos el detalle de que se constituye a partir de tres subprincipiosm, siendo uno de ellos /la proporcionalidad en sentido estricto/, porque nada mejor para expicar la proporcionalidad que mediante el concepto de proporcionalidad (?).
+
+*** Los derechos fundamentales interpretados de acuerdo al principio de proporcionalidad.
+Cuando los llamados /derechos fundamentales/ se miran desde la perspectiva del principio de proporcionalidad estos *no aparecen como simples reglas sino como principios y requisitos de optimización*
+Y, *en cuanto requisitos de optimización se requiere que se realice con la mayor amplitud posibles dentro de las posibilidades jurídicas y fácticas*.
+
+**** El principio de proporcionalidad y la optimización de lo fácticamente posibles.
+Los subprincipios de *idoniedad y necesidad* se refieren a la optimización de lo que es posible de hecho.
+**** El principio de proporcionalidad y la optimización de lo jurídicamente posibles.
+El subprincipio de *proporcionalidad en sentido estricto* se refiere a la optimización de las posibilidades jurídicas.
+***** La optimización de las posibilidades jurídicas está determinada por principios contrapuestos; luego entonces llegamos a una nueva definiión de ponderación:
+Se trata de la optimización relativa a principios contrapuestos.
+
+***** Entonces llegamos también a un nuevo contenido para el subprincipio de proporcionalidad en sentido estricto:
+cuanto mayor sea el grado de insatisfacción o de detrimento de un derecho o de un principio, mayor debe ser la importancia de satisfacer el otro. A esto Alexy le llama "regla". Y a esa regla, además, la eleva al grado de ley y la llama *ley de la ponderación*.
+- No está de más dejar registrado en una nota que el señor Alexy estaba expresando mediante esta idea el contenido del subprincipio de la proporcionalidad en sentido estricto. Pero en el mundo de las abogados al parecer las cosas operan según criterios que trascienden mi incredulidad, criterios que le permiten al señor Alexy elevar la determinación propia de una determinación de la ponderación al nivel de una ley de la ponderación, porque cuando ya confundimos las partes con el todo, ¿por qué parar de hacer el ridículo?
+
+* Dos objeciones a la ponderación desde el derecho constitucional.
+** La ponderación es una figura retórica que permite niveles de subjetividad ilimitados.
+Habermas, que se sabe es partidario de esta idea, sostiene que *no existen estándares racionales para ponderar*.
+- Sostiene además que *la aproximación ponderativa saca a la regulación jurídica de la esfera definida por conceptos como bueno y malo, correcto o incorrecto, tanto como de la idea de justificación*.
+  + Así, *la esfera de acción de la ponderación seríadeterminada por conceptos como adecuado e inadecuado o discreción*.
+    - Entonces, esto tendría como resultado que *la ponderación de valores puede orientar un juicio en cuanto a su resultado, pero no puede justificar ese resultado*.
+** Objeción de tipo conceptual: perder la categoría de corrección es el precio a pagar por ponderar o balancear.
+*** Estas dos objeciones apuntan a que la ponderación queda necesariamente excluida de LA ESFERA DE LA OBJETIVIDAD.
+**** ¿Qué es la esfera de la objetividad para el señor Alexy?
+La esfera de la objetividad es definida por Alexy como *aquella que es definida por conceptos como verdad, corrección, conocimiento, justificación y objetividad*.
+- Esta esfera *está poblada por *entidades, juicios o proposiciones que se asignan a sí mismos la calidad de verdadero o falso, correto o incorrecto*.
+  + Estas entidades, según el señor Alexy, *expresan lo que en realidad es, aquello que puede ser calificado como verdaderamente cognoscible y no sólo creído*.
+    - *ESTAS ENTIDADES REQUIEREN DE JUSTIFICACIÓN, más allá de un apoyo meramente retórico*.
+      + *Al señor Alexy le gusta llamar a esta esfera "EL IMPERIO DE LA OBJETIVIDAD*
+        - ¿ha de sosprendernos estas curiosas elecciones de nombre que hace el señor Alexy después de que no ha hecho sino demostrarnos que él habita una realidad distinta a la que compartimos el resto de los simples mortales?
+
+* Contrarréplica de Alexy a las objeciones de Habermas.
+Para responder a las objeciones que respecto del constitucionalismo discursivo se plantean, y tomando como ejemplo a Habermas, Alexy expresa la necesidad de *exponer qué es la ponderación, pues es difícil responder a preguntas y objeciones sobre ésta si no se sabe qué es exactamente.
++ *Y saber qué es exactamente una cosa, afirma el señor Alexy, es lo mismo que conocer su estructura*.
+*** La estructura de la ponderación.
+Alexy *pretende inferir la estructura de la ponderación a partir de lo que él llama "ley de la ponderación"*
+**** Las tres etapas de la ley de la ponderación:
+1. Etapa que *establece los grados de insatisfacción o detrimento de un primer principio*.
+2. Etapa en la que *se establece si la importancia de satisfacer el segundo principio justifica el detrimento o la insatisfacción del primer principio*
+3. Etapa final en la que *se establece si la importancia de satisfacer el segundo principio justifica el detrimento o la insatisfacción del primer principio*.
+**** Cada una de estas etapas exige hacer juicios razonados sobre el proceso propio de cada una de ellas. La cuestión, por tanto, radica en la capacidad o no, desde la ponderación, de realizar esa clase de juicios.
+a. En la primera etapa se exige realizar *juicios racionales sobre la intensidad de la interferencia*.
+b. En la segunda etapa se exige la realización de *juicios racionales sobre los grados de importancia*.
+c. En la tercera etapa se exige la realización de *un juicio racional sobre la relación entre los elementos anteriores*.
+***** Sobre la posibilidad de realizar juicios racionales sobre la intensidad de la interferencia y los grados de importancia.
+Alexy toma como ejemplo una decisión del Tribunal Constitucional Alemán respecto de los riesgos para la salud. Este tribunal determinó lo siguiente:
+- El deber de las compañías de advertir sobre los riesgos de fumar es *una interferencia relativamente menor o leve respecto de la libertad de ejercer una profesión*.
+- Una prohibición de todos los productos del tabaco *sería considerada una interferencia grave*.
+- Entre estos casos leves y graves *se pueden encontrar interferencias de una intensidad moderada*.
+
+****** A partir de este único ejemplo, Alexy llega a la conclusión de que es posible desarrollar una escala con niveles leve, moderado y grave para evaluar la intensidad de la interferencia. La estructura triádica.
+Esta escala *nos permitiría realizar asignaciones válidas, según esta misma escala*.
+******* Sin embargo la estructura de la escala triádica no es suficiente para demostrar la racionalidad de la ponderación.
+******** Es necesario, además, comprobar que la ponderación cuente con un sistema de inferencias implícito.
+********* Este sistema de inferencias implícito, cuya existencia el señor Alexy no se ha preocupado por probar debe estar intrínsecamente conectado al concepto de corrección.
+********** La subsunción en una regla puede expresarse mediante un ESQUEMA DEDUCTIVO LLAMADO "JUSTIFICACIÓN INTERNA".
+La justificación interna *se construye mediante tres sistemas lógicos*:
+- La lógica *proposicional*
+- La lógica de *predicados*
+- La lógica *deóntica*
+*********** ES NECESARIA LA EXISTENCIA DE UNA CONTRAPARTE A ESTE SISTEMA DEDUCTIVO, DESDE EL PUNTO DE VISTA DE LA TEORÍA DEL DISCURSO JURÍDICO.
+********** LA "FÓRMULA DEL PESO" COMO CONTRAPARTE DE LA JUSTIFICACIÓN INTERNA DE LA PONDERACIÓN.
+*********** La fórmula del peso no es otra cosa que una manera de confirmar que EL PESO CONCRETO DE UN PRINCIPIO ES SIEMPRE UN PESO RELATIVO.
+************ La racionalidad de una estructura inferencial depende esencialmente DE SI ONETA PREMISAS QUE, A SU VEZ, PUEDAN SER JUSTIFICADAS RACIONALMENTE.
+- Esto aplica, entonces, tanto para la fórmula del peso como para la justificación interna de la preponderancia.
+* 2 Objeciones al principio de ponderación, las dos de Habermas, único interlocutor en el universo para el señor Alexy:
+** La ponderación no es un procedimiento racional sino que se trata de una figura retórica que permite niveles de subjetividad ilimitados.
+Habermas declara: *no existen estándares racionales para ponderar*. A continuación Alexy pretende exponer el desarrollo de la objeción de Habermas:
+** La aproximación ponderativa saca a la regulación jurídica fuera de la esfera definida por conceptos como bueno y malo, correcto e incorrecto, además de que *se aleja de la idea de justificación.
+  - Así, /la ponderación se desplegaría al interior de una esfera definida por conceptos como adecuado e inadecuado, así como el de discreción/.
+*** LUEGO ENTONCES: la ponderación de valores puede orientar un juicio en cuanto a su resultado pero no puede justificar ese resultado. Es decir: la ponderación estaría excluida de la esfuera de la objetividad.
+Aquí cita directamente a Habermas quien afirma que:
+/La decisión de un tribunal es en sí misma un juicio de valor que refleja, de manera más o menos adecuada, una forma de vida que se articula en el marco de un orden de valores concreto. Pero este juicio ya no se relaciona con las alternativas de una decisión correcta o incorrecta/.
+** Contraargumentación del señor Alexy a Habermas
+Lo primero es dimensionar qué tanto es lo que esta en juego. *Si las conclusiones de Habermas son correctos, entonces no habría lugar para la ponderación en el derecho constitucional*, pues
